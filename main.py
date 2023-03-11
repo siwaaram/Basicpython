@@ -118,3 +118,32 @@
 #     print(num,"is Even ")
 # elif num%2!=0:
 #     print(num,"is Odd ")
+#n = 4
+# #for i in range(0,n):
+#     #print(i)
+# #count = 0
+# #while (count<10):
+#     #count = count+1
+#     #print("Hello Geek")
+# name = input("name: ")
+# #.lower ใช้ตัวเล็ก
+# print(name.lower())
+# fname = name.lower()
+#
+# counter_1 = 0
+# counter_2 =0
+# for letter in fname:
+#      print(letter)
+#      if letter =="a":
+#          counter_1 += 1
+#      elif letter =="e":
+#          counter_1 += 1
+#      elif letter =="i":
+#          counter_1 += 1
+#      elif letter =="o":
+#          counter_1 += 1
+#      elif letter =="u":
+#          counter_1 += 1
+#      else:
+#          counter_2 += 1
+# print("สระมีกี่ตัว "+str(counter_1) + "พยัญชนะมี "+str(counter_2))
