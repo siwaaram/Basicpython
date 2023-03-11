@@ -147,3 +147,15 @@
 #      else:
 #          counter_2 += 1
 # print("สระมีกี่ตัว "+str(counter_1) + "พยัญชนะมี "+str(counter_2))
+# count = 0
+# while (count < 10):
+#     count = count+1
+#     print(count)
+# count_1 = int(input("Number "))
+# count = 0
+# sum = 0
+# while (count < count_1):
+#     count=count+1
+#     print(count)
+#     sum=sum+count
+# print("ผลลัพธ์เท่ากับ"+str(sum))
